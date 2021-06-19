@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently looking for an internship/junior job
 - 🌱 I’m currently learning Node.js, React, React-Native and Typescript
-- 📖 I'm currently studying at GoStack Rocketseat
+- 📖 I'm currently studying at Ignite Rocketseat
 - 💬 Ask me about the universe, culinary, games and programming
 - ⚡ Fun fact: I have three dogs
 
