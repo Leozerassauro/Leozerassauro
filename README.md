@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:leogirardi970@gmail.com)
 
   <div align="left">
-    <p>- 🔭 I’m currently working at LNF Latino Americana as full stack developer </p>
+    <p>- 🔭 I’m currently working at LNF Latino Americana as full stack developer and Desker as front-end developer</p>
     <p>- 🌱 I’m currently learning Node.js, React, React-Native and Typescript </p>
     <p>- 📖 I'm currently studying at Ignite Rocketseat </p>
     <p>- 💬 Ask me about the universe, culinary, games and programming </p>
