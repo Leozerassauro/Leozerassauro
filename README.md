@@ -35,8 +35,6 @@
 <br/>
    
 <div>
-    <img width="50%" src="https://streak-stats.demolab.com/?user=Leozerassauro&hide_border=true&background=0D1117&ring=9161FF&stroke=C9D1D9&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="Leozerassauro" />
-    </br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Leozerassauro&show_icons=true&count_private=true&hide_border=true&title_color=9161FF&icon_color=9161FF&text_color=c9d1d9&bg_color=0d1117" alt="Leozerassauro github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leozerassauro&layout=compact&hide_border=true&title_color=9161FF&text_color=c9d1d9&bg_color=0d1117" />
  </div>
